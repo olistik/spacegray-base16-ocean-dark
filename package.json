@@ -1,7 +1,7 @@
 {
   "name": "base16-ocean-dark-spacegray-lighter-invisibles",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A port of the Spacegray base16 Ocean Theme (with lighter invisible characters)",
   "repository": "https://github.com/olistik/spacegray-base16-ocean-dark",
   "license": "MIT",
